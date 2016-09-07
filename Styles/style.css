@@ -1,0 +1,16 @@
+.bg {
+  background: url('/img/url.htm') no-repeat center center;
+  height: 350px; /*same height as jumbotron */
+  left:0;
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: -1;
+}
+
+.jumbotron {
+  background:transparent;
+  color: white;
+  height: 350px;
+  text-shadow: #444 0 1px 1px;
+}
